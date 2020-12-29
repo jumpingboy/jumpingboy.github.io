@@ -88,4 +88,8 @@
 
 .archive time { display: inline-block; min-width: 10ch; margin: 0 .2em; }
 
+.icon { height: 1em; width: 1em; fill: currentColor; transition: .2s color; vertical-align: middle; margin-bottom: .15em; }
+
+a:hover .icon { color: #909194; }
+
 /*# sourceMappingURL=classes.css.map */
